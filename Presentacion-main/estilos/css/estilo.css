@@ -71,7 +71,7 @@ nav > a{
 
 
 .exp2{
-    margin-top: 208px;
+    margin-top: 98px;
     color: rgb(0, 0, 0);
     border:rgb(0, 0, 0); padding: 16px;
     background-color: rgb(94, 197, 123);
@@ -112,9 +112,18 @@ nav > a{
  }
 
  .exp5{
-    margin-top: 363px;
+    margin-top: 187px;
     color: rgb(0, 0, 0);
     border:rgb(0, 0, 0); padding: 10px;
     background-color: rgb(106, 202, 133);
+    border-radius: 5px;
+ }
+
+
+ .exp6{
+    margin-top: 91px;
+    color: rgb(0, 0, 0);
+    border:rgb(0, 0, 0); padding: 16px;
+    background-color: rgb(94, 197, 123);
     border-radius: 5px;
  }
